@@ -1,7 +1,14 @@
 {
   "private": true,
-  "workspaces": ["./*"],
+  "workspaces": [
+    "./*"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "changeset": "changeset",
+    "version-packages": "changeset version",
+    "release": "changeset publish"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.27.1"
   }
 }
