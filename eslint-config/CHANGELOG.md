@@ -1,5 +1,11 @@
 # @spica-dev/eslint-config
 
+## 1.0.1
+
+### Patch Changes
+
+- Fixed dependencies not installed
+
 ## 1.0.0
 
 ### Major Changes
