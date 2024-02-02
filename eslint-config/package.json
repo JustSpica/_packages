@@ -1,7 +1,7 @@
 {
   "name": "@spica-dev/eslint-config",
   "author": "Guilherme Spica Luiz",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "description": "ESLint configuration used for my personal projects.",
   "main": "index.js",

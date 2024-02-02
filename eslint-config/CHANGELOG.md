@@ -1,5 +1,11 @@
 # @spica-dev/eslint-config
 
+## 1.0.2
+
+### Patch Changes
+
+- fixed react package import issue
+
 ## 1.0.1
 
 ### Patch Changes
